@@ -1,7 +1,7 @@
 <div>
 - 🔭 Hoje trabalho com automação, mas busco sempre estar aprendendo novas tecnologias.
   <div>
-- 🌱 Atualmente estou estudando Angular, Python(DJANGO, Machine Learning)
+- 🌱 Atualmente estou estudando .NET(C#, FORMS E API COM SWAGGER),  Python(Machine Learning) e angular
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/django/django-original.svg" style="max-width:100%;"></img>  
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/angularjs/angularjs-original.svg" style="max-width:100%;"></img>  
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/python/python-original.svg" style="max-width:100%;"></img>  
